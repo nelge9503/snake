@@ -1,3 +1,3 @@
 # snake
 
-Création jeu snake en python 
+Code du jeu snake en python 
